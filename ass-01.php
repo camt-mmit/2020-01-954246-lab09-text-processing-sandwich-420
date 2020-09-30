@@ -1,7 +1,7 @@
 <?php
-/*ID: 602110195
-Name: Zhang Hao(Henry)
-Wechat: hikki*/
+/*ID: 602110199
+Name: Cai Anmin(Sandwich)
+Wechat: sandwich*/
 $f=fopen($_SERVER['argv'][1],'r');
 fscanf($f,"%s%s",$Firstname,$Lastname);
 fscanf($f,"%d",$n);
